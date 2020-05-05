@@ -14,7 +14,7 @@ My_runner:
            
            Compilation: make
                        ./my_runner
-          ![image](https://github.com/claraxuxu/images/tree/master/image/hunter.png)
+          ![image](image/hunter.png)
            
 My_Hunter: 
         It's a game based on the rules of Duck Hunt

@@ -14,7 +14,7 @@ My_runner:
            
            Compilation: make
                        ./my_runner
-          ![image](https://github.com/claraxuxu/Csfml-Video-Games-1tek/blob/master/image/hunter.png)
+          ![image](https://github.com/claraxuxu/images/tree/master/image/hunter.png)
            
 My_Hunter: 
         It's a game based on the rules of Duck Hunt
@@ -25,4 +25,4 @@ My_Hunter:
 
         Compilation: make
                    ./my_hunter
-        ![image](https://github.com/claraxuxu/Csfml-Video-Games-1tek/blob/master/image/runner.png)
+        ![image](https://github.com/claraxuxu/images/tree/master/image/runner.png)
